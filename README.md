@@ -1,4 +1,4 @@
 aama
 ====
 
-AAMA's A Morphologicall Archive (originally, Afro-Asiatic Morphological Archive)
+AAMA: AfroAsiatic Morphological Archive
